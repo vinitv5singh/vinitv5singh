@@ -15,6 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 👯 I’m making the world better by PRs 
 - 📫 How to reach me: vinitsingh5859@gmail.com
 - 📫 My LinkedIn Profile- https://www.linkedin.com/in/vinit-singh-a27495231/
+- 📫 My Twitter Profile- https://x.com/vinitsingh5859
 -  👀 I’m interested in coding and developing new skills
 - 🌱 I’m currently pursuing Btech in Computer Science at LNCT Bhopal (3RD year)
 
