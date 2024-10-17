@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-A Student developer | Explorer | Tech Enthusiast |<br>🔭 I’m currently working on web dev Projects<br>🌱 I’m Interested to work on Web 3.0 and AIML<br>👯 I’m making the world better by PRs<br>📫 How to reach me: vinitsingh5859@gmail.com<br>📫 My LinkedIn Profile- https://www.linkedin.com/in/vinit-singh-a27495231/<br>📫 My Twitter Profile- https://x.com/vinitsingh5859<br>👀 I’m interested in coding and developing new skills<br>🌱 I’m currently pursuing Btech in Computer Science at LNCT Bhopal (3RD year)
+A Student developer | Explorer | Tech Enthusiast |<br>🔭 I’m currently working on web dev Projects<br>🌱 I’m Interested to work on Web Development and AIML projects<br>👯 I’m making the world better by PRs<br>📫 How to reach me: vinitsingh5859@gmail.com<br>📫 My LinkedIn Profile- https://www.linkedin.com/in/vinit-singh-a27495231/<br>📫 My Twitter Profile- https://x.com/vinitsingh5859<br>👀 I’m interested in coding and developing new skills<br>🌱 I’m currently pursuing Btech in Computer Science at LNCT Bhopal (3RD year)
 
 
 ## 🌐 Socials:
